@@ -97,5 +97,5 @@ I'm a passionate full stack developer with 20 years of experience in making all 
 
 Feel free to reach out to me for collaborations, mentorship or any general queries.
 
-- Email: `[daniel@tlach.cz](mailto:daniel@tlach.cz)`
-- LinkedIn: `[Daniel Tlach](https://www.linkedin.com/in/danieltlach/)`
+- Email: [daniel@tlach.cz](mailto:daniel@tlach.cz)
+- LinkedIn: [Daniel Tlach](https://www.linkedin.com/in/danieltlach/)
