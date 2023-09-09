@@ -10,6 +10,8 @@ I'm a passionate full stack developer with 20 years of experience in making all 
 - 📫 How to reach me: [daniel@tlach.cz](mailto:daniel@tlach.cz) 
 - ⚡ Fun fact: I love dogs and that's why I have four cats
 
+![Metrics](assets/metrics/classic.svg)
+
 ## IDEs & Editors 🛠️
 
 ![GoLand](https://img.shields.io/badge/GoLand-0f0f0f?&style=for-the-badge&logo=goland&logoColor=white)
@@ -92,6 +94,10 @@ I'm a passionate full stack developer with 20 years of experience in making all 
 ### Some Other Stuff
 
 ![Home Assistant](https://img.shields.io/badge/home%20assistant-%2341BDF5.svg?style=for-the-badge&logo=home-assistant&logoColor=white)
+
+## GitHub Achievements 🏆
+
+![Achievements](assets/metrics/achievements.svg)
 
 ## Contact Me 📞
 
