@@ -22,6 +22,8 @@ I'm a passionate full stack developer with 20 years of experience in making all 
 
 ## My Skills (in no particular order) 🛠️
 
+![Languages](assets/metrics/languages.svg)
+
 ### Languages
 
 ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
