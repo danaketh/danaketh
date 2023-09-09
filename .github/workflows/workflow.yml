@@ -16,6 +16,7 @@ jobs:
       contents: write
     steps:
       - uses: lowlighter/metrics@latest
+        name: Generate metrics
         with:
           filename: assets/metrics/classic.svg
           token: ${{ secrets.METRICS_TOKEN }}
