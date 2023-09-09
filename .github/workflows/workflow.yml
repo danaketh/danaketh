@@ -15,7 +15,7 @@ jobs:
     permissions:
       contents: write
     steps:
-      - uses: lowlighter/metrics@latest
+      - uses: lowlighter/metrics@master
         name: Generate metrics
         with:
           filename: assets/metrics/classic.svg
@@ -23,7 +23,7 @@ jobs:
           base: header, repositories
           plugin_lines: yes
           plugins_errors_fatal: yes
-      - uses: lowlighter/metrics@latest
+      - uses: lowlighter/metrics@master
         name: Generate achievements
         with:
           token: ${{ secrets.METRICS_TOKEN }}
