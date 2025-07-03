@@ -3,11 +3,11 @@
 ## About Me 🚀
 
 I'm a passionate full stack developer with 20 years of experience in making all kinds of programs.
-I'm currently working at **Microsoft** as I've decided I've had enough adventure freelancing.
+I'm currently working for multiple companies as a developer and consultant.
 I love to learn new things and I'm always looking for new challenges. I live in **Czechia**
 but I'm drawn towards USA and Australia, probably due to my love for sharks and crocodiles.
 
-- 🔧 I'm working as **Software Engineer** at **Microsoft**
+- 🔧 I'm working as developer and consultant for multiple companies
 - 🌱 I’m currently learning **C#**, **Go**, and **Rust**
 - 👯 I’m looking to collaborate on **anything, as long as it's fun**
 - 📝 I write (rarely) articles on [my website](https://daniel.tlach.cz)
